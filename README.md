@@ -1,4 +1,4 @@
-# My Agent - AI Agent System
+# My TRAE-Agent - AI Agent System
 
 Welcome to **My TRAE-Agent**, a comprehensive knowledge base and prompt library for building, managing, and collaborating with AI Agents.
 
